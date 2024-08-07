@@ -6,6 +6,7 @@ body {
 header, footer {
     text-align: center;
     color: white;
+    text-shadow: 5px 5px 5px white;
 }
 
 main {

@@ -32,6 +32,6 @@ header, p, h1, h2, h3, h4, h5, h6 {
 }
 
 img {
-    border-radius:50%;
-    width:200px;
+    border-radius:25%;
+    width:300px;
 }
